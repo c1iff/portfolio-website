@@ -1,10 +1,27 @@
+/**** Navbar ****/
 
+.navbar-brand {
+  font-size: 25px;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+.nav {
+  font-size: 20px;
+}
+
+
+
+/**** General Formatting ****/
 
 .jumbotron {
   text-align: center;
   background-color: #EFEFEF;
   margin-bottom: 0px;
 }
+
 .img-circle {
   width: 50%;
   align-items: center;
@@ -16,30 +33,12 @@
   margin-top: 50px;
 }
 
-.navbar-brand {
-
-  font-size: 25px;
-
-}
-
-.bright {
-  color: #FF3B3F;
-}
-
-.navbar {
-  margin-bottom: 0px;
-}
-
 #jumbo2 {
   background-color: #CAEBF2;
 }
 
 ol {
   list-style-type: none;
-}
-
-a:link {
-  text-decoration: none;
 }
 
 #forest-pic {
@@ -63,6 +62,16 @@ a:link {
   margin: 1px;
 }
 
+.logo {
+  float: left;
+}
+
+/**** Links ****/
+
+a:link {
+  text-decoration: none;
+}
+
 a:link {
   color: #FF3B3F;
 }
@@ -78,9 +87,3 @@ a:hover {
 .sec1:hover {
   color: purple;
 }
-/* Colors
-sky #CAEBF2
-carbon #A9A9A9
-watermelon #FF3B3F
-neutral #EFEFEF
-*/
