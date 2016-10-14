@@ -75,7 +75,9 @@ a:hover {
   color: #cc0003;
 }
 
-
+.sec1:hover {
+  color: purple;
+}
 /* Colors
 sky #CAEBF2
 carbon #A9A9A9
