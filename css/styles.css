@@ -1,0 +1,43 @@
+
+.header-logo {
+  float: left;
+  width: 100%;
+  padding: 1%;
+  border-bottom: 3px solid #337ab7;
+  margin-bottom: 20px;
+
+}
+
+.logo {
+  float: left;
+  padding: 0px;
+  margin-bottom: 1px;
+}
+
+h1 {
+  color;
+}
+
+.nav-links {
+  float: right;
+  text-align: right;
+  width: 55%;
+  margin-top: 5%;
+
+}
+
+.nav-links ul {
+  list-style: none;
+}
+
+.nav-links li {
+  display: inline-block;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.nav-links a.selected, .nav-links a:hover {
+  color: red;
+}
+
+/* Color */
