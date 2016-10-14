@@ -37,23 +37,41 @@
   color: red;
 }
 
-.profile-pic {
-  align-items: center;
+.jumbotron {
+  text-align: center;
+  background-color: #EFEFEF;
+  margin-bottom: 0px;
 }
-
 .img-circle {
-  width: 250px;
-  float: left;
+  width: 500px;
+  align-items: center;
+  margin-bottom: 30px;
+  margin-top: 30px;
 }
 
-p {
-  float: left;
-
-}
 
 .profile-pic {
   margin-top: 50px;
-  margin-bottom: 50px;
+
 }
 
-/* Color */
+.navbar-brand {
+
+  font-size: 25px;
+
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+#jumbo2 {
+  background-color: #CAEBF2;
+}
+
+/* Colors
+sky #CAEBF2
+carbon #A9A9A9
+watermelon #FF3B3F
+neutral #EFEFEF
+*/
