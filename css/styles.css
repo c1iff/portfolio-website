@@ -6,22 +6,24 @@
   margin-bottom: 0px;
 }
 .img-circle {
-  width: 60%;
+  width: 50%;
   align-items: center;
   margin-bottom: 30px;
   margin-top: 30px;
 }
 
-
 .profile-pic {
   margin-top: 50px;
-
 }
 
 .navbar-brand {
 
   font-size: 25px;
 
+}
+
+.bright {
+  color: #FF3B3F;
 }
 
 .navbar {
@@ -39,6 +41,41 @@ ol {
 a:link {
   text-decoration: none;
 }
+
+#forest-pic {
+  width: 100%;
+}
+
+#row-p {
+  margin-top: 20px;
+}
+
+#jumbo3 {
+  background: #A9A9A9;
+  padding: 10px 0px 2px 0px;
+}
+
+.ul-about {
+  list-style-type: none;
+}
+
+.ul-about p {
+  margin: 1px;
+}
+
+a:link {
+  color: #FF3B3F;
+}
+
+a:visited {
+  color: #FF3B3F;
+}
+
+a:hover {
+  color: #cc0003;
+}
+
+
 /* Colors
 sky #CAEBF2
 carbon #A9A9A9
