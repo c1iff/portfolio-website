@@ -14,9 +14,6 @@
   margin-bottom: 1px;
 }
 
-h1 {
-  color;
-}
 
 .nav-links {
   float: right;
@@ -38,6 +35,25 @@ h1 {
 
 .nav-links a.selected, .nav-links a:hover {
   color: red;
+}
+
+.profile-pic {
+  align-items: center;
+}
+
+.img-circle {
+  width: 250px;
+  float: left;
+}
+
+p {
+  float: left;
+
+}
+
+.profile-pic {
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 /* Color */
