@@ -10,7 +10,7 @@ This website contains a portfolio of my recent programming projects.  It also co
 
 ## Setup/Installation Requirements
 
-* Enter website URL into you web browser
+* Enter website https://c1iff.github.io/portfolio-website/ into you web browser
 
 
 ## Known Bugs
